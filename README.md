@@ -1,4 +1,4 @@
-# MERN-Stack
+# PacMan
 ## Coursework 
 
     Name: PacMan Coding Assignment  
